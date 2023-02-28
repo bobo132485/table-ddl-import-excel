@@ -13,4 +13,4 @@ public class Test {
 }
 ```
 ###结果
-![结果](https://github.com/bobo132485/table-ddl-import-excel/blob/main/data.png)
+![结果](http://mengyu-file-test.oss-cn-shenzhen.aliyuncs.com/data.png)
